@@ -15,8 +15,7 @@ This project is a derivative work of CChatNotifier. We are deeply grateful to th
 - coolmodi (Original creator of CChatNotifier)
 - hokohuang (Refined version developer)
 
-中文版本 (针对国内玩家及备份)
-MessageRadar (信息雷达)
+中文简介 (Chinese Introduction)
 MessageRadar 是一款专为魔兽世界设计的增强型聊天监控与通知插件。本作基于 CChatNotifier 开发，旨在通过更强大的过滤语法和便捷的数据管理功能，帮助玩家在海量信息中精准捕捉关键动态。
 
 相比原版的差异化改进
