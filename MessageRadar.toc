@@ -1,0 +1,22 @@
+## Interface: 20505,11508,50503
+## Title: MessageRadar
+## Notes: Advanced chat filtering, scanning and notification system.
+## Author: nedvedsk
+## Version: 1.3.0
+
+## SavedVariablesPerCharacter: MessageRadar_settings, MessageRadar_data
+
+libs/LibStub.lua
+libs/LibDeflate.lua
+libs/LibSerialize.lua
+libs/SettingsCreator.lua
+
+i18n/loc.lua
+i18n/enUS.lua
+i18n/zhCN.lua
+
+main.lua
+settings.lua
+UI/MainUI.lua
+UI/MainUI_functions.lua
+UI/minimapButton.lua
